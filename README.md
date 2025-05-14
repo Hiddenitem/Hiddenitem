@@ -1,12 +1,20 @@
 ## Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=random&height=300&section=header&text=Hidden%20Item&fontSize=90&fontColor=d6ace6&animation=fadeIn)
-## 👀 A field of interest
+## 👀 I'm currently interesting ...
 - Web Development
 - Game Development
 - Backend Development
-
-- 🌱 I’m currently learning ...
-- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+---
+## 🌱 I’m currently learning ...
+- ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+- ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+---
+## My TIL NOTE
+![TIL](https://github.com/Hiddenitem/TIL.git)
 <!--
 **Hiddenitem/Hiddenitem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
