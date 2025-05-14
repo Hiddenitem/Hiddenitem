@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=Venom&color=random&height=300&section=header&text=Hidden%20Item&fontSize=90&fontColor=d6ace6&animation=fadeIn)
+## 👀 A field of interest
+- Web Development
+- Game Development
+- Backend Development
 <!--
 **Hiddenitem/Hiddenitem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
